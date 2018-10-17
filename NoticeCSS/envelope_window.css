@@ -17,7 +17,7 @@ pre { font-size: 10pt; }
 
 .return_address_top {
  margin-bottom:15px;   
-    
+ 
 }
 
 /* Suitable for #10 Window Envelope
@@ -40,8 +40,8 @@ div.address {
     border 0px;
     padding 0px;
     margin 0px;
-    top: -0.375in;
-    left: 0.800in;
+    top: 0.575in;
+    left: 1.0in;
     width: 4.5in;
     height: 1.125in;
 }
